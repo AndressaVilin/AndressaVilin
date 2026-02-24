@@ -12,6 +12,7 @@
 <br>
 
 - 🔭 Atualmente estou trabalhando em: Projetos de automação de testes (E2E) e organização de repositórios de QA.
+- 🎓 Cursando Bacharelado em Ciência da Computação no IFCE (Instituto Federal do Ceará).
 - 🌱 No momento, estou aprendendo: Testes com Cypress e Playwright, além de aprofundar meus conhecimentos em Java.
 - 👯 Procuro colaborar em: Projetos Open Source que precisem de estruturação de suítes de testes ou revisão de qualidade.
 - 😄 Pronouns: ela/dela
