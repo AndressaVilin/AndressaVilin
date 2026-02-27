@@ -15,7 +15,7 @@
 - 🎓 Cursando Bacharelado em Ciência da Computação no IFCE (Instituto Federal do Ceará).
 - 🌱 No momento, estou aprendendo: Testes com Cypress e Playwright, além de aprofundar meus conhecimentos em Java.
 - 👯 Procuro colaborar em: Projetos Open Source que precisem de estruturação de suítes de testes ou revisão de qualidade.
-- 😄 Pronouns: ela/dela
+- 😄 Pronomes: ela/dela
 
 <div align="center">
   <a href="https://www.linkedin.com/in/andressa-evilin-986427359" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;<a href="https://mail.google.com/mail/?view=cm&fs=1&to=andressaestudos2024@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
