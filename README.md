@@ -4,6 +4,10 @@
   <img alt="Andressa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="Andressa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Andressa-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="Andressa-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img alt="Andressa-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
+  <img alt="Andressa-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+  <img alt="Andressa-Rails" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg">
   <img alt="Andressa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img alt="Andressa-Cypress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg">
   <img alt="Andressa-Playwright" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@9.21.0/icons/playwright.svg">
@@ -11,10 +15,10 @@
 
 <br>
 
-- 🔭 Atualmente estou trabalhando em: Projetos de automação de testes (E2E) e organização de repositórios de QA.
 - 🎓 Cursando Bacharelado em Ciência da Computação no IFCE (Instituto Federal do Ceará).
-- 🌱 No momento, estou aprendendo: Testes com Cypress e Playwright, além de aprofundar meus conhecimentos em Java.
-- 👯 Procuro colaborar em: Projetos Open Source que precisem de estruturação de suítes de testes ou revisão de qualidade.
+- 🔭 Atualmente desenvolvendo e estudando aplicações Web com **Laravel** e **Ruby on Rails**.
+- 🌱 No momento, estou aprendendo: Desenvolvimento Web backend/fullstack (PHP, Laravel, Ruby, Ruby on Rails) e aprofundando conhecimentos em Java e automação de testes (Cypress e Playwright).
+- 👯 Procuro colaborar em: Projetos Open Source em desenvolvimento Web e garantia de qualidade (QA).
 - 😄 Pronomes: ela/dela
 
 <div align="center">
